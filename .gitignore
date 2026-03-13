@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+uploads/
+outputs/
+models/yolov8_floorplan/
+*.pt
+*.weights
+.DS_Store
+venv/
+.venv/
